@@ -19,7 +19,7 @@ Slidev normally opens <http://localhost:3030>.
 - Overview: `O`
 - Go to slide: `G`
 - Full screen: `F`
-- Presenter view: <http://localhost:3030/presenter>
+- Presenter view: <http://localhost:3030/#/presenter>
 
 ## Build and export
 

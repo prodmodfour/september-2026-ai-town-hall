@@ -4,6 +4,7 @@ title: AI Town Hall
 colorSchema: dark
 aspectRatio: 16/9
 canvasWidth: 1280
+routerMode: hash
 layout: center
 class: title-slide
 transition: none
