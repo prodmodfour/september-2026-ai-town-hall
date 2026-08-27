@@ -35,6 +35,9 @@ jobs:
       - name: Build Slidev presentation
         run: npm run build -- --base /${{ github.event.repository.name }}/
 
+      - name: Add single-page application fallback
+        run: cp dist/index.html dist/404.html
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v6
         with:
