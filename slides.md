@@ -14,6 +14,18 @@ transition: none
 
 ---
 layout: default
+class: structure-slide
+---
+
+# Session structure
+
+1. Three AI stories
+2. Discussion via Slido
+3. Agentic AI Interest Group
+4. Open Q&A
+
+---
+layout: default
 ---
 
 # Meta’s “AI-native” restructuring ran into trouble
@@ -49,38 +61,73 @@ layout: default
 <p class="source">Sources: <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx">Nvidia</a> · <a href="https://apnews.com/article/dc8d556e709b50915cca9217a60b1991">Associated Press</a></p>
 
 ---
-layout: default
+layout: center
+class: slido-slide
 ---
 
-# Where does AI genuinely help—and where does it not?
+<div class="slido-shell">
+  <section class="slido-copy">
+    <p class="slido-kicker">Live discussion · Slido</p>
+    <h1>Join the<br>conversation</h1>
+    <p class="slido-lede">Respond to three prompts and submit questions throughout the session.</p>
+    <div class="slido-join">
+      <div>
+        <span class="slido-label">Go to</span>
+        <a class="slido-url" href="https://www.slido.com" target="_blank" rel="noopener noreferrer">slido.com</a>
+      </div>
+      <div>
+        <span class="slido-label">Event code</span>
+        <strong class="slido-code">1269313</strong>
+      </div>
+    </div>
+    <p class="slido-privacy">Anonymous by default · Please do not share confidential information.</p>
+  </section>
+  <a class="slido-qr-card" href="https://app.sli.do/event/vEt9wQPZvzobhNVzmzo3Sv" target="_blank" rel="noopener noreferrer" aria-label="Join the AI Town Hall Slido">
+    <img src="/slido-qr.svg" alt="QR code to join the AI Town Hall Slido">
+    <span>Scan to join</span>
+  </a>
+</div>
 
-- Share one practical example where AI improved your work.
-- Did it help with productivity, creativity, coding, analysis or administration?
-- Where did it produce a poor, misleading or unusable result?
-- What verification or human judgement was still needed?
+<!--
+Keep Audience Q&A open throughout. Start each poll in Slido when introducing its topic, allow about a minute for responses, then use the questions below to prompt discussion.
 
----
-layout: default
----
+## Topic 1: Where does AI genuinely help—and where does it not?
 
-# How might AI reshape our roles, skills and careers?
+- Where has AI saved you time or improved the quality of your work?
+- Where has it produced a poor, misleading or unusable result?
+- What verification or human judgement did you still need?
+- Are there tasks where using AI would make the work worse?
 
-- Which tasks in your role are most likely to change?
-- What skills will become more valuable?
-- How can early-career colleagues use AI without losing foundational expertise?
+## Topic 2: How might AI reshape our roles, skills and careers?
+
+- Which tasks in your role are most likely to change first?
+- Which skills will become more valuable?
+- How can early-career colleagues use AI without skipping foundational learning?
 - What knowledge and judgement must we actively protect?
 
+## Topic 3: What does responsible AI use look like in our workplace?
+
+- What information should never be entered into an AI system?
+- When should people disclose that AI assisted their work?
+- What checks are needed before AI-assisted work is used or shared?
+- Who remains accountable when an AI-assisted outcome is wrong?
+- Where do colleagues need clearer guidance, training or accessibility support?
+
+After the third discussion, close the poll and move to the open Q&A. Remind participants not to include names, confidential projects or unpublished information in their responses.
+-->
+
 ---
 layout: default
+class: interest-slide
 ---
 
-# What does responsible AI use look like in our workplace?
+# Agentic AI Interest Group
 
-- **Reliability:** verify outputs before using or sharing them.
-- **Integrity:** protect scientific standards and be transparent about AI assistance.
-- **Data:** safeguard sensitive, unpublished and intellectual-property-protected material.
-- **Accessibility:** ensure AI-assisted work remains inclusive and usable.
-- **Accountability:** a person remains responsible for every consequential outcome.
+If you've found the town hall today interesting, we're setting up an informal interest group for discussing agentic AI.
+
+We're hoping to run future events like this in future, but also make a space for sharing ideas, tools, and just talking about what does (and doesn't!) work.
+
+We'll be setting up a channel for it in the RSE teams initially, but please get in touch with willow.sparks@stfc.ac.uk if you have ideas!
 
 ---
 layout: center
