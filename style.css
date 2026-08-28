@@ -172,13 +172,6 @@ body,
   line-height: 1;
 }
 
-.slidev-layout .slido-privacy {
-  margin: 30px 0 0;
-  color: #a8a8a8;
-  font-size: 16px;
-  line-height: 1.35;
-}
-
 .slidev-layout .slido-qr-card,
 .slidev-layout .slido-qr-card:visited {
   display: flex;

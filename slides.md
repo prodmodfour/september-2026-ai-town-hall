@@ -80,7 +80,6 @@ class: slido-slide
         <strong class="slido-code">1269313</strong>
       </div>
     </div>
-    <p class="slido-privacy">Anonymous by default · Please do not share confidential information.</p>
   </section>
   <a class="slido-qr-card" href="https://app.sli.do/event/vEt9wQPZvzobhNVzmzo3Sv" target="_blank" rel="noopener noreferrer" aria-label="Join the AI Town Hall Slido">
     <img src="/slido-qr.svg" alt="QR code to join the AI Town Hall Slido">
