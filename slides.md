@@ -17,11 +17,11 @@ layout: default
 class: structure-slide
 ---
 
-# Session structure
+# Session Structure
 
-1. Three AI stories
-2. Discussion via Slido
-3. Agentic AI Interest Group
+1. AI News
+2. Discussion Topics
+3. AI Interest Group Announcement
 4. Open Q&A
 
 ---
@@ -123,11 +123,9 @@ class: interest-slide
 
 # Agentic AI Interest Group
 
-If you've found the town hall today interesting, we're setting up an informal interest group for discussing agentic AI.
-
-We're hoping to run future events like this in future, but also make a space for sharing ideas, tools, and just talking about what does (and doesn't!) work.
-
-We'll be setting up a channel for it in the RSE teams initially, but please get in touch with willow.sparks@stfc.ac.uk if you have ideas!
+- If you've found the town hall today interesting, we're setting up an informal interest group for discussing agentic AI.
+- We're hoping to run future events like this in future, but also make a space for sharing ideas, tools, and just talking about what does (and doesn't!) work.
+- We'll be setting up a channel for it in the RSE teams initially, but please get in touch with willow.sparks@stfc.ac.uk if you have ideas!
 
 ---
 layout: center
