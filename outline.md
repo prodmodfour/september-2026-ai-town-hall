@@ -9,7 +9,7 @@
 - Engineering significance: more generated code or activity does not necessarily produce proportional customer value; reliable delivery, supervision and outcome-based productivity measures remain essential.
 - Accuracy note: Meta did not propose cutting 60% of its entire workforce. That figure applied only to aggressive scenarios for selected teams, and Reuters did not establish that AI performance alone caused the second wave to be cancelled.
 
-Sources: [Reuters report, syndicated by UOL](https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/plano-ousado-de-zuckerberg-para-substituir-equipe-da-meta-por-ia-desmoronou.htm) · [Ars Technica](https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/)
+Sources: [Reuters report, syndicated by UOL](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/) · [Ars Technica](https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/)
 
 ## 2. OpenAI slowed Astra development over cyber capability
 

@@ -34,7 +34,7 @@ layout: default
 - Meta carried out part of the restructuring, then cancelled a planned second stage amid employee resistance, disappointing agent performance and operational problems.
 - An internal comparison showed platform and infrastructure changes rising 220 percent year on year, while user-facing improvements rose 36 percent.
 
-<p class="source">Sources: <a href="https://www.uol.com.br/tilt/noticias/reuters/2026/08/26/plano-ousado-de-zuckerberg-para-substituir-equipe-da-meta-por-ia-desmoronou.htm">Reuters</a> · <a href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/">Ars Technica</a></p>
+<p class="source">Sources: <a href="https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/">Reuters</a> · <a href="https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/">Ars Technica</a></p>
 
 ---
 layout: default
